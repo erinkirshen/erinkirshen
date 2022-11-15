@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erinkirshen
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning to be a data analyst at Masterschool
+- 🌱 I’m currently learning SQL, Python, Pandas, and, Tableau to futher experience in analyical roles with the ultimate goal of getting a job as a data analyst.
 - 📫 How to reach me erin.kirshen@gmail.com
 
 <!---
